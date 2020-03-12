@@ -121,3 +121,38 @@ html {
   font-size: 3.5rem;
   padding-top: 250px;
 }
+.short-article-cont-1 {
+  display: flex;
+  height: 400px;
+  margin-top: 40px;
+  
+}
+.short-article {
+  height: 100%;
+  width: 25%;
+  font-size: 20px;
+  padding: 40px;
+  border: 1px solid green;
+}
+
+.short-article-cont-2 {
+  display: flex;
+  height: 600px;
+  border: 1px solid red;
+}
+
+.banner {
+  display: flex;
+  border: 1px solid blue;
+  width: 50%;
+  background-color: rgb(83, 83, 83);
+  justify-content: center;
+  align-items: center;
+}
+
+.image-banner {
+  background-color: white;
+  border-radius: 50%;
+  width: 105px;
+  height: 105px;
+}
