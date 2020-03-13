@@ -323,3 +323,59 @@ html {
 .feature-panel button {
   background-color: #ffffff;
 }
+
+.guide-cont {
+  border: 1px solid red;
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  width: 100%;
+  font-size: 3.2rem;
+  
+}
+
+.guide-title {
+  border: 1px solid green;
+  justify-content: stretch;
+  min-height: 700px;
+  padding-left: 20px;
+}
+
+.guide-ulist li {
+  margin: 50px 0;
+  font-size: 2.0rem;
+}
+
+.smashing-newsletter {
+  border: 1px solid red;
+  background-color: rgb(83, 83, 83);
+  border-radius: 25px;
+  color: #ffffff;
+  line-height: 50px;
+  width: 80%;
+  justify-content: space-around;
+  margin: 100px auto;
+  min-height: 900px;
+  text-align: center;
+  font-size: 4.2rem;
+  padding: 50px 200px;
+}
+
+.smashing-newsletter p {
+  font-size: 2.3rem;
+}
+
+.smashing-newsletter span {
+  display:block;
+  height: 300px;
+  margin: auto;
+  width: 300px;
+  background-color: #ffffff;
+  border-radius: 50%;
+}
+
+.smashing-newsletter button {
+  border-radius: 10px;
+  margin-top: 100px;
+  width: 35%;
+  height: 70px;
+}
