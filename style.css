@@ -129,9 +129,10 @@ html {
 }
 .short-article {
   width: 25%;
-  font-size: 20px;
+  font-size: 1.7rem;
   padding: 40px;
   padding-bottom: 50px;
+  line-height: 1.6;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -231,4 +232,55 @@ html {
   font-family: 'Montserrat', sans-serif;
   padding: 0 35px;
   text-align: left;
+}
+.community-link {
+  margin: 70px 0;
+}
+
+.bio-content {
+  width: 50%;
+  padding: 10px;
+}
+
+.bio-content__flex {
+  display: flex;
+  justify-content: space-around;
+  padding: 7px 12px;
+  margin: 40px 0 0 0;
+}
+
+.bio-content__img {
+  width: 150px;
+}
+.bio-content__img div {
+  width: 80px;
+  height: 80px;
+  background-color: #43434b;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+
+.bio-content__data {
+  width: 600px;
+}
+.bio-content__bdr {
+  background-color: #64686b;
+  width: 200px;
+  margin: 7px 0;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
+  color: #ffffff;
+  font-family: 'Baloo Chettan 2', cursive;
+}
+.bio-content__hdr {
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0 0 15px 0;
+  padding: 0;
+}
+
+.bio-content__innerdata {
+  font-size: 1.5rem;
+  font-family: 'Baloo Chettan 2', cursive;
 }
