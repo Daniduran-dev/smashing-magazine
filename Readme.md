@@ -2,7 +2,7 @@
 
 > Creating a Smashing Magazine Website
 
-![screenshot](assets/images/screenshot.PNG)
+![screenshot](images/screenshot.PNG)
 
 This project shows the format of designing the layout of a webpage using HTML semantics element and various shades of color gray to structure out the smashing website webpage. 
 
