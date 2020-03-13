@@ -13,7 +13,7 @@ This project shows the format of designing the layout of a webpage using HTML se
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://rawcdn.githack.com/Daniduran-dev/smashing-magazine/72ef991e3d34dae7d25b8b651f5646c34c4518e4/index.html)
 
 
 ## Getting Started

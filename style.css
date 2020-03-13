@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
 }
+
 body {
   margin: 0;
   padding: 0;
@@ -13,11 +14,10 @@ html {
 .nav-container {
   align-items: center;
   background-color: #7f8c8d;
-  color: #ffffff;
+  color: #fff;
   display: flex;
   justify-content: space-between;
   padding: 25px;
-  
 }
 
 .logo-image {
@@ -45,8 +45,9 @@ html {
   padding-top: 10px;
   font-size: 25px;
 }
+
 .topics {
-  border: 1px solid #ffffff;
+  border: 1px solid #fff;
   background-color: #636e72;
   padding: 5px 45px;
   border-radius: 10px;
@@ -59,8 +60,9 @@ html {
 }
 
 .wrapper-content {
-  color: #ffffff;
+  color: #fff;
 }
+
 .box-1,
 .box-2,
 .box-3,
@@ -68,39 +70,48 @@ html {
   width: 50%;
   height: 700px;
 }
+
 .box-1,
 .box-3,
 .box-4 {
   background-color: #797878;
   padding: 14% 0 0 40px;
 }
+
 .box-2 {
   background-color: #43434b;
   padding: 50px 0 0 40px;
 }
+
 .box-3 {
   background-color: #64686b;
 }
+
 .box-4 {
   background-color: #5f6164;
 }
+
 .box-text-1,
 .inner-box-text2 {
   font-size: 2.2rem;
   line-height: 1.6;
   font-family: 'Baloo Chettan 2', cursive;
 }
+
 .box-text-2 {
   padding-top: 21%;
 }
+
 .box-header {
   font-size: 2rem;
 }
+
 .float {
   position: absolute;
   top: 170px;
   left: 35%;
 }
+
 .float-content {
   background-color: #fefefe;
   padding: 15px;
@@ -108,6 +119,7 @@ html {
   text-align: center;
   font-family: 'Baloo Chettan 2', cursive;
 }
+
 .left-wrapper-content {
   float: right;
   border: 1px solid #fefefe;
@@ -115,18 +127,21 @@ html {
   width: 30%;
   text-align: center;
   padding: 10px;
-  color: #ffffff;
+  color: #fff;
   font-size: 1.7rem;
   margin-right: 15px;
 }
+
 .box-icon {
   font-size: 3.5rem;
   padding-top: 250px;
 }
+
 .short-article-cont-1 {
   display: flex;
   margin-top: 40px;
 }
+
 .short-article {
   width: 25%;
   font-size: 1.7rem;
@@ -147,7 +162,6 @@ html {
   background-color: rgb(83, 83, 83);
   justify-content: center;
   align-items: center;
-  justify-content: center;
   flex-direction: column;
 }
 
@@ -159,7 +173,7 @@ html {
 }
 
 .banner-title {
-  color: #ffffff;
+  color: #fff;
   font-size: 4.2rem;
   padding: 0 55px;
   text-align: center;
@@ -175,7 +189,7 @@ html {
 
 .floating-link span {
   background-color: rgb(155, 155, 155);
-  color: #ffffff;
+  color: #fff;
   font-family: 'Baloo Chettan 2', cursive;
   padding: 7px 15px;
 }
@@ -219,6 +233,7 @@ html {
 .flexbox-img-container {
   width: 30%;
 }
+
 .flexbox-img {
   background-color: #5f6164;
   width: 200px;
@@ -234,9 +249,11 @@ html {
   padding: 0 35px;
   text-align: left;
 }
+
 .flex-mrgin {
   padding-top: 50px;
 }
+
 .community-link {
   margin: 70px 0;
 }
@@ -256,6 +273,7 @@ html {
 .bio-content__img {
   width: 150px;
 }
+
 .bio-content__img div {
   width: 80px;
   height: 80px;
@@ -267,6 +285,7 @@ html {
 .bio-content__data {
   width: 600px;
 }
+
 .bio-content__bdr {
   background-color: #64686b;
   width: 200px;
@@ -274,9 +293,10 @@ html {
   padding: 5px;
   text-align: center;
   border-radius: 5px;
-  color: #ffffff;
+  color: #fff;
   font-family: 'Baloo Chettan 2', cursive;
 }
+
 .bio-content__hdr {
   font-size: 2rem;
   font-family: 'Montserrat', sans-serif;
@@ -292,7 +312,7 @@ html {
 .curated-articles {
   background-color: rgb(83, 83, 83);
   padding: 25px 40px;
-  color: #ffffff;
+  color: #fff;
   margin-bottom: 45px;
 }
 
@@ -303,15 +323,18 @@ html {
 .feature-panel__img {
   width: 35%;
 }
+
 .feature-panel h4 {
   font-size: 2.4rem;
   font-family: 'Montserrat', sans-serif;
 }
+
 .feature-panel p {
   font-size: 1.6rem;
   font-family: 'Baloo Chettan 2', cursive;
   line-height: 1.6;
 }
+
 .feature-panel__img div {
   width: 300px;
   height: 250px;
@@ -321,7 +344,7 @@ html {
 }
 
 .feature-panel button {
-  background-color: #ffffff;
+  background-color: #fff;
 }
 
 .guide-cont {
@@ -340,13 +363,13 @@ html {
 
 .guide-ulist li {
   margin: 50px 0;
-  font-size: 2.0rem;
+  font-size: 2rem;
 }
 
 .smashing-newsletter {
   background-color: rgb(83, 83, 83);
   border-radius: 25px;
-  color: #ffffff;
+  color: #fff;
   line-height: 50px;
   width: 80%;
   justify-content: space-around;
@@ -362,11 +385,11 @@ html {
 }
 
 .smashing-newsletter span {
-  display:block;
+  display: block;
   height: 300px;
   margin: auto;
   width: 300px;
-  background-color: #ffffff;
+  background-color: #fff;
   border-radius: 50%;
 }
 
@@ -379,7 +402,7 @@ html {
 
 .footer {
   background-color: rgb(83, 83, 83);
-  color: #ffffff;
+  color: #fff;
   padding: 25px;
 }
 
@@ -388,6 +411,7 @@ html {
   width: 900px;
   margin: 0 auto;
 }
+
 .footer h4 {
   font-size: 1.9rem;
   text-align: center;
