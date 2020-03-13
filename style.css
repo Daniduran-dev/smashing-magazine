@@ -325,16 +325,14 @@ html {
 }
 
 .guide-cont {
-  border: 1px solid red;
   display: grid;
   grid-template-columns: 25% 25% 25% 25%;
   width: 100%;
   font-size: 3.2rem;
-  
+  font-family: 'Baloo Chettan 2', cursive;
 }
 
 .guide-title {
-  border: 1px solid green;
   justify-content: stretch;
   min-height: 700px;
   padding-left: 20px;
@@ -346,7 +344,6 @@ html {
 }
 
 .smashing-newsletter {
-  border: 1px solid red;
   background-color: rgb(83, 83, 83);
   border-radius: 25px;
   color: #ffffff;
@@ -378,4 +375,25 @@ html {
   margin-top: 100px;
   width: 35%;
   height: 70px;
+}
+
+.footer {
+  background-color: rgb(83, 83, 83);
+  color: #ffffff;
+  padding: 25px;
+}
+
+.footer div {
+  font-family: 'Montserrat', sans-serif;
+  width: 900px;
+  margin: 0 auto;
+}
+.footer h4 {
+  font-size: 1.9rem;
+  text-align: center;
+}
+
+.footer p {
+  font-size: 1.6rem;
+  line-height: 1.7;
 }
