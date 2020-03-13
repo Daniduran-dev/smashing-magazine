@@ -213,3 +213,22 @@ html {
   margin: 15px auto;
   background-color: #5f6164;
 }
+
+.flexbox-img-container {
+  width: 30%;
+}
+.flexbox-img {
+  background-color: #5f6164;
+  width: 200px;
+  height: 150px;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+
+.flexbox-content {
+  width: 70%;
+  font-size: 1.7rem;
+  font-family: 'Montserrat', sans-serif;
+  padding: 0 35px;
+  text-align: left;
+}
