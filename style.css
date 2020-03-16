@@ -30,20 +30,7 @@ html {
   width: 100px;
   display: flex;
   flex-direction: column;
-}
-
-.articles-image {
-  display: block;
-  height: 25px;
-  width: 25px;
-  margin: auto;
-}
-
-.articles-text {
-  display: flex;
-  justify-content: center;
-  padding-top: 10px;
-  font-size: 25px;
+  font-size: 2.5rem;
 }
 
 .topics {
@@ -408,6 +395,21 @@ html {
   background-color: rgb(83, 83, 83);
   color: #fff;
   padding: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer ul {
+  margin: 0;
+  padding: 0;
+}
+
+.footer ul li {
+  display: inline-block;
+  list-style-type: circle;
+  padding-right: 5px;
+  font-size: 1.4rem;
+  line-height: 1.6;
 }
 
 .footer div {
