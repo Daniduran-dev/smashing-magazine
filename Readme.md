@@ -14,7 +14,7 @@ Doing it this way we could focused more in the layout and design of the page.
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Daniduran-dev/smashing-magazine/72ef991e3d34dae7d25b8b651f5646c34c4518e4/index.html)
+[Live Demo Link](https://rawcdn.githack.com/Daniduran-dev/smashing-magazine/9a1a262e6d9b82b82a78b77d6ed3f08fcebfff17/index.html)
 
 
 ## Getting Started
