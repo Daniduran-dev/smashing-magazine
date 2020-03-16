@@ -397,6 +397,7 @@ html {
   padding: 25px;
   display: flex;
   justify-content: center;
+  text-align: center;
 }
 
 .footer ul {
@@ -410,6 +411,11 @@ html {
   padding-right: 5px;
   font-size: 1.4rem;
   line-height: 1.6;
+}
+
+.footer ul li a {
+  color: #fff;
+  text-decoration: none; 
 }
 
 .footer div {
@@ -426,4 +432,8 @@ html {
 .footer p {
   font-size: 1.6rem;
   line-height: 1.7;
+}
+
+.footer ul li a:hover {
+  text-decoration: underline;
 }
