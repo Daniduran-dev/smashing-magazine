@@ -4,11 +4,12 @@
 
 ![screenshot](images/screenshot.PNG)
 
-This project shows the format of designing the layout of a webpage using HTML semantics element and various shades of color gray to structure out the smashing website webpage. 
+This project shows the format of designing the layout of a webpage using HTML semantics element and various shades of color gray to structure out the smashing website webpage. We did a heatmap of the main areas of the page. We followed the order of importance and applied the style attributes. After this we applied the fonts and focused on the content of every area.
+Doing it this way we could focused more in the layout and design of the page.
 
 ## Built With
 
-- html, css, javascript
+- html, css
 - vscode
 
 ## Live Demo
